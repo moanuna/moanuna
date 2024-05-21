@@ -1,5 +1,6 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seung%20Yeon&fontSize=50" />
+<!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seung%20Yeon&fontSize=50" /> -->
+ <img src="https://github.com/moanuna/moanuna/assets/137742302/9ef5ff77-0039-43bf-91bf-ff5b8c5cfbc4" />
 </div>
 
 <!--내용 부분-->
