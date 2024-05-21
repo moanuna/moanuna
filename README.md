@@ -40,6 +40,7 @@
 <div align=center>	
   
 ![moanuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=moanuna&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moanuna&layout=compact)
   
 </div>
 
