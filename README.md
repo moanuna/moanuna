@@ -3,7 +3,12 @@
  <img src="https://github.com/moanuna/moanuna/assets/137742302/9ef5ff77-0039-43bf-91bf-ff5b8c5cfbc4" />
 </div>
 
-<!--내용 부분-->
+<br>
+
+<div align="center">
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoanuna&count_bg=%23A9C6FF&title_bg=%23AAAAAA&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
