@@ -46,11 +46,14 @@
 
 <br>
 
-<div align=center>	
-  
-![moanuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=moanuna&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moanuna&layout=compact)
-  
+<div align="center">
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=moanuna&utm_content=farm">
+ <img
+   src="https://render.gitanimals.org/farms/moanuna"
+   width="600"
+   height="300"
+ />
 </div>
+  
 
 </div>
