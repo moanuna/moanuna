@@ -7,7 +7,7 @@
  />
 </div>
 
-<br>
+<!-- <br>
 
 <h4 align="center">Frontend</h4>
 <div align="center">
@@ -54,4 +54,4 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
+</div> -->
