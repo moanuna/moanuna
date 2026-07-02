@@ -18,7 +18,7 @@
 
 ## Observability
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Alertmanager](https://img.shields.io/badge/ALERTMANAGER-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-77AAFF?style=for-the-badge&logo=Grafana&logoColor=white) <br> ![hubble](https://img.shields.io/badge/HUBBLE-2B5D80?style=for-the-badge&logo=cilium&logoColor=white) ![otel](https://img.shields.io/badge/OPENTELEMETRY-000000?style=for-the-badge&logo=opentelemetry&logoColor=white) ![fluentbit](https://img.shields.io/badge/FLUENT%20BIT-4EBA87?style=for-the-badge&logo=fluentd&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Alertmanager](https://img.shields.io/badge/ALERTMANAGER-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-%23F46800?style=for-the-badge&logo=Grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)  <br> ![hubble](https://img.shields.io/badge/HUBBLE-2B5D80?style=for-the-badge&logo=cilium&logoColor=white) ![otel](https://img.shields.io/badge/OPENTELEMETRY-000000?style=for-the-badge&logo=opentelemetry&logoColor=white) ![fluentbit](https://img.shields.io/badge/FLUENT%20BIT-4EBA87?style=for-the-badge&logo=fluentd&logoColor=white)
 
 
 ## Tools
