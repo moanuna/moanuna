@@ -1,3 +1,5 @@
+
+<!-- 
 ## 📝 About ME
 ### 👋 보이지 않는 곳에서 대시보드를 만들며 인프라의 안정성을 다지는 엔지니어입니다.
 
@@ -23,17 +25,13 @@
 
 ## Tools
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black) ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
+-->
 
 <br>
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=moanuna&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/moanuna" width="400" height="200" />
-  </a>
-
-  <a href="https://github.com/moanuna">
-    <img src="https://github-readme-stats.vercel.app/api?username=moanuna&show_icons=true&theme=shadow_green" height="200" />
   </a>
 </div>
 
