@@ -1,4 +1,4 @@
-<img width="656" height="368" alt="img" src="https://github.com/user-attachments/assets/7e295074-35e7-45d8-bc32-d3698ab33209" />
+<img width="450" alt="img" src="https://github.com/user-attachments/assets/7e295074-35e7-45d8-bc32-d3698ab33209" />
 
 ### Experience & Activities
 - **디지시스** - Data Analyst Intern (2026.08 ~ 2026.10)
