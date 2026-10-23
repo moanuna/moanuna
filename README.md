@@ -1,50 +1,39 @@
+### Experience
+- 디지시스 - Data Analyst Intern (2026.08 ~ 2026.10)
 
-<!-- 
-## 📝 About ME
-### 👋 보이지 않는 곳에서 대시보드를 만들며 인프라의 안정성을 다지는 엔지니어입니다.
+### Activities
+- 2nd KT Cloud Infra · Cloud Infra (2025.12 – 2026.07)
+- 코멘토 직무부트캠프 · Backend (2025.04)
+- 7th UMC TUK · iOS (2024.08 – 2025.02)
+- 6th UMC TUK · WEB (2024.03 – 2024.08)
+- 2023 Techeer Partners · Django (2023.09 – 2023.11)
+- 2023 Techeer Summer Bootcamp (2023.06 – 2023.08)
 
- * 대시보드를 통한 상시 관제 체계를 구축하여 안정적인 서비스를 만드는 것을 좋아합니다.
- * 애매하게 터지는 에러의 근본적인 원인을 분석하고 선명하게 해결하는 과정을 중요하게 생각합니다.
- * 프로젝트의 요구사항과 팀의 니즈를 인프라 기반으로 구현해 나가는 개발자입니다.
+### Certificate
+- 정보처리기사 - 한국산업인력공단
+- ADsP (데이터분석 준전문가) - 한국데이터산업진흥원
 
-  
-## Cloud & Infrastructure
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) <br>
-![Terraform](https://img.shields.io/badge/terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-
-## Linux & Platforms
-
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-
-## Observability
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Alertmanager](https://img.shields.io/badge/ALERTMANAGER-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-%23F46800?style=for-the-badge&logo=Grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)  <br> ![hubble](https://img.shields.io/badge/HUBBLE-2B5D80?style=for-the-badge&logo=cilium&logoColor=white) ![otel](https://img.shields.io/badge/OPENTELEMETRY-000000?style=for-the-badge&logo=opentelemetry&logoColor=white) ![fluentbit](https://img.shields.io/badge/FLUENT%20BIT-4EBA87?style=for-the-badge&logo=fluentd&logoColor=white)
-
-
-## Tools
-![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black) ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
--->
+### Tech Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+</br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+</br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+</br>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
+</br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Redash](https://img.shields.io/badge/Redash-FF7964?style=flat-square&logo=redash&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) ![Meta API](https://img.shields.io/badge/Meta%20API-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 <br>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=moanuna&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/moanuna?v=2"
-  width="600"
-  height="300"
+  width="450"
+  height="225"
 />
 </a>
-
-<!-- 
-[Frontend 주석 백업]
-- Javascript: https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a
-- Typescript: https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white
-- React: https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB
-- Vue.js: https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white
-- Styled Components: https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
-- TailwindCSS: https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white
-- HTML5: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-- CSS3: https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white
--->
