@@ -1,11 +1,11 @@
 ### Experience & Activities
-- 디지시스 - Data Analyst Intern (2026.08 ~ 2026.10)
-- 2nd KT Cloud Infra Bootcamp (2025.12 – 2026.07)
-- 코멘토 직무부트캠프 · Backend (2025.04)
-- 7th UMC TUK · iOS (2024.08 – 2025.02)
-- 6th UMC TUK · WEB (2024.03 – 2024.08)
-- 2023 Techeer Partners · Django (2023.09 – 2023.11)
-- 2023 Techeer Summer Bootcamp (2023.06 – 2023.08)
+- **디지시스** - Data Analyst Intern (2026.08 ~ 2026.10)
+- **2nd KT Cloud Infra Bootcamp** (2025.12 – 2026.07)
+- **코멘토 직무부트캠프** · Backend (2025.04)
+- **7th UMC TUK** · iOS (2024.08 – 2025.02)
+- **6th UMC TUK** · WEB (2024.03 – 2024.08)
+- **2023 Techeer Partners** · Django (2023.09 – 2023.11)
+- **2023 Techeer Summer Bootcamp** (2023.06 – 2023.08)
 
 ### Certificate
 - 정보처리기사 - 한국산업인력공단
