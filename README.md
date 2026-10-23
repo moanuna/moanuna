@@ -1,3 +1,5 @@
+<img width="656" height="368" alt="img" src="./img.gif" />
+
 ### Experience & Activities
 - **디지시스** - Data Analyst Intern (2026.08 ~ 2026.10)
 - **2nd KT Cloud Infra Bootcamp** (2025.12 – 2026.07)
