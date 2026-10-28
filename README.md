@@ -1,6 +1,6 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-moanuna.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://moanuna.vercel.app) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@moanuna/posts)
-
 <img width="450" alt="img" src="https://github.com/user-attachments/assets/7e295074-35e7-45d8-bc32-d3698ab33209" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-moanuna.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://moanuna.vercel.app) [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@moanuna/posts)
 
 ### Experience & Activities
 - **디지시스** - Data Analyst Intern (2026.08 ~ 2026.10)
