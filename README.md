@@ -1,5 +1,7 @@
 <img width="450" alt="img" src="https://github.com/user-attachments/assets/7e295074-35e7-45d8-bc32-d3698ab33209" />
 
+**[Portfolio](https://moanuna.vercel.app)** · [Blog](https://velog.io/@moanuna/posts)
+
 ### Experience & Activities
 - **디지시스** - Data Analyst Intern (2026.08 ~ 2026.10)
 - **2nd KT Cloud Infra Bootcamp** (2025.12 – 2026.07)
